@@ -52,6 +52,7 @@ O site foi pensado para pessoas que buscam atendimento psicológico, desejam con
 - Desenvolvimento da página principal (`index`);
 - Desenvolvimento e estilização das folhas de estilo CSS;
 - Implementação da estrutura visual e responsividade da interface.
+- Levantamento e registro de informações institucionais e operacionais da empresa.
 
 GitHub: [@_lipexpx_](https://github.com/_lipexpx_)
 
