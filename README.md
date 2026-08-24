@@ -1,0 +1,2 @@
+# Projeto-de-Extens-o-Curricular-Fatec---Site-Institucional
+Site institucional para o psicólogo clínico Cristiano Viana, desenvolvido como projeto de extensão acadêmica, sem fins lucrativos. A iniciativa integra as disciplinas de Informática e Negócios e Comunicação e Expressão do curso de Informática para Negócios da Fatec Rio Preto, unindo tecnologia, estratégia, comunicação para ampliar presença digital.
