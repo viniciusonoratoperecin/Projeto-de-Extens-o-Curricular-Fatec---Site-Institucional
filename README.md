@@ -90,7 +90,7 @@ Além do desenvolvimento do site, o projeto incluiu uma frente de organização 
 2. Coleta e organização de informações institucionais;
 3. Planejamento da estrutura de conteúdo e das páginas;
 4. Produção e revisão dos textos;
-5. Desenvolvimento da interface em HTML, CSS e JavaScript;
+5. Desenvolvimento da interface em HTML e CSS;
 6. Testes de navegação, responsividade e legibilidade;
 7. Organização dos documentos administrativos e entrega do projeto.
 
